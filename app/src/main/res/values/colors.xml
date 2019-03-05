@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673ab7</color>
+    <color name="colorPrimaryDark">#320b86</color>
+    <color name="colorAccent">#F27400</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorShade">#777777</color>
+    <color name="colorReview">#FACA0F</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorSpecial">#FF4500</color>
+    <color name="orderDeliver">#59af77</color>
+    <color name="orderCancel">#FF4500</color>
+    <color name="orderNotDeliver">#FACA0F</color>
+    <color name="colorMilk">#eeeeee</color>
+    <color name="black_effective">#2a2a2a</color>
+</resources>
